@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y \
 RUN apt-get update && apt-get install -y \
     python3-numpy \
     python3-matplotlib \
+    python3-pandas \
     python3-seaborn \
     python3-flask \
     python3-sklearn \
